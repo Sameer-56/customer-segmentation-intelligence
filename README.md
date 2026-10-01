@@ -1,6 +1,6 @@
 # Customer Segmentation & Marketing Intelligence System
 
-🚀 **[Live Demo on Streamlit](https://your-app-name.streamlit.app)**
+🚀 **[Live Demo on Streamlit](https://customer-segmentation-intelligence-ehbkktzvosjaof8xrlzrbm.streamlit.app/)**
 
 An end-to-end Machine Learning and Business Analytics project that segments retail customers into behavioral personas using unsupervised learning, accompanied by an interactive Streamlit targeting dashboard.
 
